@@ -7,7 +7,29 @@ Rails.application.routes.draw do
 
 end
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 =begin
+resources :gossips
 Prefix Verb   URI Pattern                 Controller#Action
   root GET    /                           gossips#index
 gossips_index GET    /gossips/index(.:format)    gossips#index
