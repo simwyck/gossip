@@ -2,8 +2,9 @@
 
 ## Don't be talkin' 'bout friends when they're not around
 
-Link to Heroku: https://hidden-sierra-98797.herokuapp.com/
-(Dur, dur avec Heroku)
+Link to Heroku:
+* Ancien : https://hidden-sierra-98797.herokuapp.com/
+* Nouveau : https://hidden-sierra-98797.herokuapp.com/
 
 ---
 
